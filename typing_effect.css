@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+ 
+    
+}
+.wrapper button
+{
+    height: 30px;
+    width: 50px;
+}
+.wrapper
+{
+    display: flex;
+   
+    background-position: center;
+    font-family: oswald;
+    color: #fff;
+    font-size: 4.5rem;
+}
+.wrapper h2 span
+{
+    color: red;
+}

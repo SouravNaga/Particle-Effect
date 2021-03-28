@@ -1,0 +1,29 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("abstract.jpg");
+    background-size: cover;
+}
+h1{
+    font-size: 4.5rem;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 27%;
+}
+.wrapper
+{
+  position: absolute;
+  top: 30%;
+  left: 30%;
+    font-family: oswald;
+    color: #fff;
+    font-size: 4.5rem;
+}
+.wrapper h2 span
+{
+    color: red;
+}
